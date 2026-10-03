@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.con{
+    height: 99vh;
+    width: 207vh;
+    background: linear-gradient(90deg, skyblue,purple 80%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    height: 73vh;
+    width: 60vh;
+    background-color: white;
+    border-radius: 30px;
+}
